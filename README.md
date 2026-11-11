@@ -37,3 +37,4 @@ The app reads the `PORT` environment variable and listens on `0.0.0.0`, which is
   docker run -p 3000:3000 express-cloud-app
   ```
 - Set a health check path to `/health` if your platform supports it.
+![ProductCatalog](/Image/ProductCatalog.png)
