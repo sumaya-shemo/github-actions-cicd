@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Wireless Mouse", "category": "accessories", "price": 24.99, "inStock": true },
+  { "id": 2, "name": "Mechanical Keyboard", "category": "accessories", "price": 89.5, "inStock": true },
+  { "id": 3, "name": "27-inch Monitor", "category": "displays", "price": 229.0, "inStock": false },
+  { "id": 4, "name": "USB-C Hub", "category": "accessories", "price": 39.99, "inStock": true },
+  { "id": 5, "name": "Laptop Stand", "category": "furniture", "price": 34.0, "inStock": true },
+  { "id": 6, "name": "Webcam 1080p", "category": "video", "price": 59.99, "inStock": false }
+]
