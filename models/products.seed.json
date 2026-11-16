@@ -5,5 +5,6 @@
   { "id": 4, "name": "USB-C Hub", "category": "accessories", "price": 39.99, "inStock": true },
   { "id": 5, "name": "Laptop Stand", "category": "furniture", "price": 34.0, "inStock": true },
   { "id": 6, "name": "Webcam 1080p", "category": "video", "price": 59.99, "inStock": false },
-  { "id": 7, "name": "Onikuma M830", "category": "Microphone", "price": 50.00, "inStock": true }
+  { "id": 7, "name": "Onikuma M830", "category": "Microphone", "price": 50.00, "inStock": true },
+  { "id": 8, "name": "Meetion MT-HP003", "category": "Headphone", "price": 50.00, "inStock": true }
 ]
